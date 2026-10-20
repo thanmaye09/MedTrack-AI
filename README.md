@@ -1,7 +1,6 @@
 # MedTrack-AI
 MedTrack AI is an AI-powered healthcare platform for location-based disease surveillance, symptom-based illness prediction, outbreak risk analysis, and GPS-enabled nearby hospital recommendations.
 
-# MedTrack AI
 ### AI-Powered Disease Surveillance and Smart Healthcare Assistance System
 
 ## Project Overview
